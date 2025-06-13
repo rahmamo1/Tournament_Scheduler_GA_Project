@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.csv
+*.xlsx
+*.pkl
+venv/
+.env/
+results/logs/
+results/plots/
+results/schedules/
+.DS_Store
+.streamlit/
+.ipynb_checkpoints/
