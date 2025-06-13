@@ -6,11 +6,11 @@ This project builds a smart scheduler for sports tournaments using Genetic Algor
 
 •	Avoid common scheduling issues such as:
 
-   o	Conflicting use of stadiums
-   
-   o	Uneven rest time between matches
-   
-   o	Imbalanced match distribution
+      o	Conflicting use of stadiums
+      
+      o	Uneven rest time between matches
+      
+      o	Imbalanced match distribution
 
 •	Improve results using evolutionary techniques like GA and coevolution.
 
@@ -33,19 +33,19 @@ This project builds a smart scheduler for sports tournaments using Genetic Algor
 
 •	Fitness function checks for:
 
-   o	Double-booked venues
-   
-   o	Fair rest periods
-   
-   o	Balanced scheduling
+      o	Double-booked venues
+      
+      o	Fair rest periods
+      
+      o	Balanced scheduling
 
 •	GA operators include:
 
-   o	Selection: Tournament, Roulette
-   
-   o	Crossover: Order crossover (OX), PMX
-   
-   o	Mutation: Swap, Insertion
+      o	Selection: Tournament, Roulette
+      
+      o	Crossover: Order crossover (OX), PMX
+      
+      o	Mutation: Swap, Insertion
 
 •	Optionally, a multi-island approach can be used to evolve solutions in parallel.
 
